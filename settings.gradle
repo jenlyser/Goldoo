@@ -1,0 +1,8 @@
+include ':devices'
+include ':wklib'
+include ':wkui'
+include ':datas'
+include ':workflow'
+include ':events'
+include ':app'
+rootProject.name = "Goldoo"
